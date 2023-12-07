@@ -41,8 +41,6 @@
  console.log(sum(2,3,11));
   console.log(sum1(2,3,11));
 
-<<<<<<< HEAD
-=======
 
 function table2(x){
     let sum = 0;
@@ -53,5 +51,4 @@ function table2(x){
     }
 
 }
-table2(23);
->>>>>>> 2table
+table2(2);
