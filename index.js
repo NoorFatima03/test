@@ -40,3 +40,12 @@
  console.log(sum2(2,3,11,12));
  console.log(sum(2,3,11));
   console.log(sum1(2,3,11));
+
+  function table6(x){
+    let sum = 0;
+    for(let i =0;i<=10;i++){
+         sum = x*i;
+         console.log(x+"*"+i+"="+sum)
+    }
+  }
+  table6(6);
