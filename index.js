@@ -28,6 +28,10 @@
  function mod(x,y){
     return x%y;
  }
+ function did(x,y){
+    return x/y;
+ }
+ console.log(did(2,5));
  console.log(mod(2,3));
  console.log(multi2(2,3,2,4));
  console.log(multi1(2,3,2));
