@@ -22,6 +22,10 @@
  function multi1(x,y,z){
     return x*y*z;
  }
+ function multi2(x,y,z,a){
+    return x*y*z*a;
+ }
+ console.log(multi2(2,3,2,4));
  console.log(multi1(2,3,2));
  console.log(multi(2,3));
  console.log(minus(2,3));
