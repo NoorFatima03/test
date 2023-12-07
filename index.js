@@ -16,7 +16,10 @@
  function minus1(x,y,z){
     return x-y-z;
  }
- console.log(minus1(2,3,4));
+ function multi(x,y){
+    return x*y;
+ }
+ console.log(multi(2,3));
  console.log(minus(2,3));
  console.log(sum2(2,3,11,12));
  console.log(sum(2,3,11));
