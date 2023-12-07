@@ -42,7 +42,7 @@
   console.log(sum1(2,3,11));
 
 
-  function table(x){
+function table2(x){
     let sum = 0;
     for(let i =0; i<=10;i++){
         sum = x * i;
@@ -51,4 +51,4 @@
     }
 
 }
-table(23);
+table2(23);
