@@ -19,6 +19,10 @@
  function multi(x,y){
     return x*y;
  }
+ function multi1(x,y,z){
+    return x*y*z;
+ }
+ console.log(multi1(2,3,2));
  console.log(multi(2,3));
  console.log(minus(2,3));
  console.log(sum2(2,3,11,12));
