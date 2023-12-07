@@ -40,3 +40,4 @@
  console.log(sum2(2,3,11,12));
  console.log(sum(2,3,11));
   console.log(sum1(2,3,11));
+
